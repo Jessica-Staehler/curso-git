@@ -7,6 +7,7 @@ namespace PrimeiroProjeto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá! seja bem vindo!");
             int i = 1;
             while (i == 1)
             {
