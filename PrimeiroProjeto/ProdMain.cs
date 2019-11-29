@@ -34,7 +34,6 @@ namespace PrimeiroProjeto
                         Exercicio4();
                         break;
                 }
-
              }
         }
         static void Exercicio2()
