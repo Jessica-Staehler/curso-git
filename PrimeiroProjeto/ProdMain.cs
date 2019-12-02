@@ -7,10 +7,6 @@ namespace PrimeiroProjeto
     {
         static void Main(string[] args)
         {
-            for(int e = 0; e >= 10; e--)
-            {
-
-            }
             Console.WriteLine("Olá! seja bem vindo!");
             int i = 1;
             while (i == 1)
