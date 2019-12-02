@@ -7,9 +7,8 @@ namespace PrimeiroProjeto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá! seja bem vindo!");
-            int i = 1;
-            while (i == 1)
+            int i = 0;
+            while (i != 1)
             {
                 Console.WriteLine("Qual programa você deseja executar? (1 SAIR) ");
                 Console.WriteLine("Produto = 2   - Calculadora = 3  Novo = 4 ");
